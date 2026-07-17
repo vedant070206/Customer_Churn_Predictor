@@ -1,0 +1,5 @@
+.vscode/
+.venv/
+*.pkl
+logs/
+*.h5
