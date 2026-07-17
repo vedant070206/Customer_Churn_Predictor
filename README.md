@@ -107,6 +107,6 @@ Customer churn prediction helps businesses identify at-risk customers early, all
 
 Built and maintained by Vedant Thakar.
 
-- LinkedIn: [Vedant Thakr](https://www.linkedin.com/in/vedant-thakar-4ba561292/)
+- LinkedIn: [Vedant Thakar](https://www.linkedin.com/in/vedant-thakar-4ba561292/)
 - GitHub: [vedant070206](https://github.com/vedant070206)
 - Email: thakar2006@gmail.com
