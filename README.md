@@ -10,6 +10,10 @@ This project analyzes customer behavior and banking attributes to estimate the p
 
 The model is trained on the Bank Customer Churn dataset and predicts whether a customer is likely to leave the service.
 
+### 🌐 Live Demo
+
+Try the deployed app here: https://customerchurnpredictor-een6qfk9svfoevgmjcvddt.streamlit.app/
+
 ---
 
 ## ✨ Key Features
